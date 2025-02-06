@@ -4,3 +4,7 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Leena8486/github_practicecommands.git
 git push -u origin main
+
+
+update dtata
+some adata entered
